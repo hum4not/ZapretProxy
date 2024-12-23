@@ -1,0 +1,8 @@
+D:\humanot\Desktop\CS PROJECTS\TrafficLogs\TrafficLogs\bin\x86\Release\TrafficLogs.exe.config
+D:\humanot\Desktop\CS PROJECTS\TrafficLogs\TrafficLogs\bin\x86\Release\TrafficLogs.exe
+D:\humanot\Desktop\CS PROJECTS\TrafficLogs\TrafficLogs\bin\x86\Release\TrafficLogs.pdb
+D:\humanot\Desktop\CS PROJECTS\TrafficLogs\TrafficLogs\obj\x86\Release\TrafficLogs.csproj.SuggestedBindingRedirects.cache
+D:\humanot\Desktop\CS PROJECTS\TrafficLogs\TrafficLogs\obj\x86\Release\TrafficLogs.csproj.CoreCompileInputs.cache
+D:\humanot\Desktop\CS PROJECTS\TrafficLogs\TrafficLogs\obj\x86\Release\TrafficLogs.exe
+D:\humanot\Desktop\CS PROJECTS\TrafficLogs\TrafficLogs\obj\x86\Release\TrafficLogs.pdb
+D:\humanot\Desktop\CS PROJECTS\TrafficLogs\TrafficLogs\obj\x86\Release\TrafficLogs.csproj.AssemblyReference.cache
