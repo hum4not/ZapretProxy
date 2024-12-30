@@ -1,5 +1,5 @@
 # ZapretProxy
-Simple way to use Zapret on mobile
+Simple way to use Zapret on mobile or tv
 # How To:
 - Launch zapret on your pc
 - Setup & run hotspot
